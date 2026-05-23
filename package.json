@@ -1,0 +1,25 @@
+{
+  "name": "rest-services",
+  "version": "1.0.0",
+  "description": "\"# node-rest-services\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshav-chaure/node-rest-services.git"
+  },
+  "keywords": [],
+  "author": "keshav-chaure",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/keshav-chaure/node-rest-services/issues"
+  },
+  "homepage": "https://github.com/keshav-chaure/node-rest-services#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
